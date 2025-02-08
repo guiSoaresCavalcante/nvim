@@ -13,7 +13,6 @@ sudo apt update && sudo apt install -y \
     xclip \
     fd-find \
     ripgrep \
-    fzf \
-    fuse && \
+    fzf && \
 pip install ruff black
 ```
