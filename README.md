@@ -15,4 +15,5 @@ sudo apt update && sudo apt install -y \
     ripgrep \
     fzf && \
 pip install ruff black
+npm install -g eslint_d
 ```
